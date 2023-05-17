@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574858694 source:e:\projeler\sezer\towerblocks\game.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+
+1574857033 source:e:\projeler\sezer\poolball\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+
